@@ -1,2 +1,2 @@
 # iPay
-Experinmenting some front end stuff
+Experimenting some front end stuff
